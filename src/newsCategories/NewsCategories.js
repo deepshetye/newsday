@@ -1,5 +1,4 @@
 import React from 'react';
-import './newsCategories.css';
 
 const NewsCategories = ({setCategory}) => {
     return (

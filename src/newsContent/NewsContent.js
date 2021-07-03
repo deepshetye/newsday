@@ -1,5 +1,4 @@
 import React from 'react';
-import './newsContent.css';
 import NewsCard from './NewsCard';
 
 const NewsContent = ({newsArray, newsResults, loadMore, setLoadMore}) => {
